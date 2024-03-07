@@ -1,0 +1,5 @@
+1|Teoh|1234|Manager
+2|Ali|1234|Customer
+3|Usman|1|Customer
+4|Soh|12|Manager
+5|Jane|love|Manager

@@ -1,0 +1,10 @@
+1|1|1|2|Ali|5|No|Amazing system
+2|1|1|2|A|3|No|Amazing system
+3|1|1|2|B|4|No|Amazing system
+4|1|1|2|C|3|Yes|Amazing system
+5|1|1|2|D|2|Yes|Amazing system
+6|2|2|2|Ali|3|No|sffssfd
+7|3|3|2|Ali|5|No|Nice
+8|4|4|2|Ali|4|Yes|good
+9|0|0|2|Ali|3|Yes|decent
+10|6|6|2|Ali|4|Yes|good

@@ -1,0 +1,5 @@
+1|Chinese Food
+2|Malay Food
+3|Indian Food
+4|Western Food
+5|Thai Food

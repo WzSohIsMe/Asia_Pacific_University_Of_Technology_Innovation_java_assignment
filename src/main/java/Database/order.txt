@@ -1,0 +1,15 @@
+1|2|Ali|16/08/2022|Wonton noodle|Chinese Food|1|6.0|16/08/2022
+1|2|Ali|16/08/2022|Steak|Western Food|31|483.59999999999997|16/08/2022
+1|2|Ali|16/08/2022|Banana Leaf Rice|Indian Food|1|9.0|16/08/2022
+1|2|Ali|16/08/2022|Nasi Goreng Kampung|Malay Food|1|7.5|16/08/2022
+1|2|Ali|16/08/2022|Steak|Western Food|31|483.59999999999997|16/08/2022
+2|2|Ali|19/08/2022|Premium Beef|Western Food|61|42700.0|19/08/2022
+3|2|Ali|23/08/2022|Pizza|Western Food|1|11.5|23/08/2022
+3|2|Ali|23/08/2022|Apple Pie|Western Food|1|8.5|23/08/2022
+3|2|Ali|23/08/2022|Otak-Otak|Malay Food|2|7.0|23/08/2022
+3|2|Ali|23/08/2022|Nasi Lemak|Malay Food|2|11.0|23/08/2022
+4|2|Ali|23/08/2022|Otak-Otak|Malay Food|1|3.5|23/08/2022
+4|2|Ali|23/08/2022|Hamburger|Western Food|1|8.5|23/08/2022
+4|2|Ali|23/08/2022|Mamee|Western Food|2|20.0|23/08/2022
+5|2|Ali|23/08/2022|Chapati|Indian Food|1|5.6|23/08/2022
+6|2|Ali|25/08/2022|Wonton noodle|Chinese Food|1|6.0|25/08/2022

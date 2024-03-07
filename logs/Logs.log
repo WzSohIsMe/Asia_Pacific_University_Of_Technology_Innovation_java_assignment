@@ -1,0 +1,158 @@
+[INFO ]|2022-08-23|03:18:29.699|[AWT-EventQueue-0]|frmLogin - Manager: Jane has logged in
+[INFO ]|2022-08-23|03:18:30.900|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane selected End User Registration
+[ERROR]|2022-08-23|03:18:41.301|[AWT-EventQueue-0]|frmManagerEndUserRegistration - Manager: Jane failed to Register a User (Missing Information)
+[INFO ]|2022-08-23|03:18:44.247|[AWT-EventQueue-0]|frmManagerEndUserRegistration - Manager: Jane User Registration Successful, Customer Ryan has been created
+[INFO ]|2022-08-23|03:18:48.143|[AWT-EventQueue-0]|frmManagerEndUserRegistration - Manager: Jane Cancelled User Registration
+[INFO ]|2022-08-23|03:18:48.987|[AWT-EventQueue-0]|frmManagerEndUserRegistration - Manager: Jane Quit User Registraiton back to Manager Main Menu
+[INFO ]|2022-08-23|03:18:49.862|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane selected Update Menu
+[ERROR]|2022-08-23|03:18:54.323|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane failed to Update Menu (Missing Information)
+[INFO ]|2022-08-23|03:18:55.090|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane Cleared All Inputs
+[INFO ]|2022-08-23|03:18:57.597|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane has Searched for an Item
+[INFO ]|2022-08-23|03:18:58.850|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane has Searched for an Item
+[INFO ]|2022-08-23|03:18:59.907|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane updated Menu List
+[ERROR]|2022-08-23|03:19:01.728|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane has Failed to Delete an Item (Category not selected)
+[INFO ]|2022-08-23|03:19:03.079|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Jane Quit Update Menu back to Manager Main Menu
+[INFO ]|2022-08-23|03:19:05.407|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane selected Update Menu Category
+[ERROR]|2022-08-23|03:19:07.960|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane failed to add new Category (Missing Information)
+[INFO ]|2022-08-23|03:19:09.143|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane Cleared Add New Menu Category Input
+[INFO ]|2022-08-23|03:19:10.991|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane Searched for a Category
+[INFO ]|2022-08-23|03:19:13.426|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane Searched for a Category
+[INFO ]|2022-08-23|03:19:14.834|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane Updated Category Table
+[ERROR]|2022-08-23|03:19:16.958|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane has Failed to Delete a Category (Category not selected)
+[INFO ]|2022-08-23|03:19:18.188|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Jane Quit Update Menu Category back to Manager Main Menu
+[INFO ]|2022-08-23|03:19:21.940|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane selected View Sales Report
+[INFO ]|2022-08-23|03:19:32.899|[AWT-EventQueue-0]|frmManagerSalesReport - Manager: Jane Set Date Range for Sales Report
+[INFO ]|2022-08-23|03:19:47.336|[AWT-EventQueue-0]|frmManagerSalesReport - Manager: Jane Cleared Set Date and Back to Default Date
+[INFO ]|2022-08-23|03:19:51.879|[AWT-EventQueue-0]|frmManagerSalesReport - Manager: Jane Quit Sales Report back to Manager Main Menu
+[INFO ]|2022-08-23|03:19:54.480|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane selected View Feedback
+[INFO ]|2022-08-23|03:19:55.582|[AWT-EventQueue-0]|frmManagerViewFeedback - Manager: Jane Selected a Feedback to view its Description
+[INFO ]|2022-08-23|03:19:56.470|[AWT-EventQueue-0]|frmManagerViewFeedback - Manager: Jane Selected a Feedback to view its Description
+[INFO ]|2022-08-23|03:19:57.625|[AWT-EventQueue-0]|frmManagerViewFeedback - Manager: Jane Quit View Feedback back to Manager Main Menu
+[INFO ]|2022-08-23|03:19:58.702|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane selected View User
+[INFO ]|2022-08-23|03:20:05.499|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane searched for a user
+[INFO ]|2022-08-23|03:20:09.122|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane searched for a user
+[INFO ]|2022-08-23|03:20:12.785|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane View Manager Only
+[INFO ]|2022-08-23|03:20:14.048|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane View Manager Only
+[INFO ]|2022-08-23|03:20:14.048|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane View Customer Only
+[INFO ]|2022-08-23|03:20:16.646|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane Deleted an Item
+[INFO ]|2022-08-23|03:20:22.953|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Jane Quit View User back to Manager Main Menu
+[INFO ]|2022-08-23|03:20:24.322|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Jane has logged out
+[INFO ]|2022-08-23|03:23:30.341|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-23|03:23:31.396|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-23|03:23:33.526|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Manager Only
+[INFO ]|2022-08-23|03:23:34.000|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Manager Only
+[INFO ]|2022-08-23|03:23:34.001|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Customer Only
+[INFO ]|2022-08-23|03:23:34.855|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Customer Only
+[INFO ]|2022-08-23|03:23:36.888|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh searched for a user
+[INFO ]|2022-08-23|03:23:40.742|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Manager Only
+[INFO ]|2022-08-23|03:23:41.616|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Manager Only
+[INFO ]|2022-08-23|03:23:41.616|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh View Customer Only
+[INFO ]|2022-08-23|03:23:42.727|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh searched for a user
+[INFO ]|2022-08-23|03:23:45.235|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh Quit View User back to Manager Main Menu
+[INFO ]|2022-08-23|03:23:46.744|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-23|04:12:44.924|[AWT-EventQueue-0]|frmLogin - Customer: Ali has logged in
+[INFO ]|2022-08-23|04:12:48.841|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected Menu
+[INFO ]|2022-08-23|04:12:51.856|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:12:51.939|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:12:53.216|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-23|04:13:00.181|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali Removed an Item from Cart
+[INFO ]|2022-08-23|04:13:00.689|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:13:00.765|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:13:03.652|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-23|04:13:04.028|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:13:04.105|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:13:04.557|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-23|04:13:07.182|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:13:07.259|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:13:07.700|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-23|04:13:10.669|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali Checked Out Successfully
+[INFO ]|2022-08-23|04:13:26.999|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali has logged out
+[INFO ]|2022-08-23|04:48:58.488|[AWT-EventQueue-0]|frmLogin - Customer: Ali has logged in
+[INFO ]|2022-08-23|04:49:02.084|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected Menu
+[INFO ]|2022-08-23|04:49:02.798|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:49:02.890|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:49:04.068|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-23|04:49:08.203|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali Checked Out Successfully
+[INFO ]|2022-08-23|04:49:11.107|[AWT-EventQueue-0]|frmCustCart - Customer: Ali Quit Cart back to Ordering Menu
+[INFO ]|2022-08-23|04:49:28.300|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:49:28.383|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-23|04:49:29.658|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-23|04:49:37.775|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali Checked Out Successfully
+[INFO ]|2022-08-23|04:49:43.076|[AWT-EventQueue-0]|frmCustCart - Customer: Ali selected Pay Order and will get Receipt
+[INFO ]|2022-08-23|04:49:52.296|[AWT-EventQueue-0]|frmCustReceipt - Customer: Ali got the Receipt and will give Feedback
+[INFO ]|2022-08-23|04:50:16.174|[AWT-EventQueue-0]|frmCustFeedback - Customer: Ali Submitted the Feedback
+[INFO ]|2022-08-23|04:50:20.856|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected Transaction History
+[INFO ]|2022-08-23|04:50:31.198|[AWT-EventQueue-0]|frmCustTransactionRecord - Customer: Ali will be Viewing the Selected Receipt
+[INFO ]|2022-08-23|04:50:35.646|[AWT-EventQueue-0]|frmCustViewReceipt - Customer: Ali Viewed the Receipt and back to the Transaction History
+[INFO ]|2022-08-23|04:50:43.802|[AWT-EventQueue-0]|frmCustTransactionRecord - Customer: Ali Quit Transaction History back to Customer Main Menu
+[INFO ]|2022-08-23|04:50:49.339|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali has logged out
+[INFO ]|2022-08-25|10:37:05.096|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|10:37:35.087|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-25|11:39:57.568|[AWT-EventQueue-0]|frmLogin - Customer: Ali has logged in
+[INFO ]|2022-08-25|11:40:05.879|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected Menu
+[INFO ]|2022-08-25|11:40:08.900|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-25|11:40:08.917|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali selected a Food in the Menu
+[INFO ]|2022-08-25|11:40:12.198|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali Added a Food to Cart
+[INFO ]|2022-08-25|11:40:14.549|[AWT-EventQueue-0]|frmCustOrderingMenu - Customer: Ali Checked Out Successfully
+[INFO ]|2022-08-25|11:40:15.870|[AWT-EventQueue-0]|frmCustCart - Customer: Ali selected Pay Order and will get Receipt
+[INFO ]|2022-08-25|11:40:17.028|[AWT-EventQueue-0]|frmCustReceipt - Customer: Ali got the Receipt and will give Feedback
+[INFO ]|2022-08-25|11:40:22.549|[AWT-EventQueue-0]|frmCustFeedback - Customer: Ali Submitted the Feedback
+[INFO ]|2022-08-25|11:40:24.314|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali has logged out
+[INFO ]|2022-08-25|11:40:41.220|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|11:40:45.741|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-25|11:43:09.789|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|11:43:48.851|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-25|11:43:58.140|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-25|11:43:59.025|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-25|11:43:59.025|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Customer Only
+[INFO ]|2022-08-25|11:44:03.049|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh searched for a user
+[INFO ]|2022-08-25|11:44:06.510|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh Quit View Log Activity back to Manager Main Menu
+[INFO ]|2022-08-25|11:44:09.490|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[ERROR]|2022-08-25|11:46:07.055|[AWT-EventQueue-0]|frmLogin - Login Error - Invalid Login Details
+[INFO ]|2022-08-25|11:46:29.820|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|11:46:31.231|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-25|11:47:20.081|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|11:47:31.019|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-25|11:48:00.450|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-25|11:48:07.633|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-25|11:48:07.633|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Customer Only
+[INFO ]|2022-08-25|12:06:34.808|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|12:07:18.154|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected End User Registration
+[INFO ]|2022-08-25|12:07:37.966|[AWT-EventQueue-0]|frmManagerEndUserRegistration - Manager: Teoh Quit User Registraiton back to Manager Main Menu
+[INFO ]|2022-08-25|12:07:41.394|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected Update Menu
+[INFO ]|2022-08-25|12:07:56.072|[AWT-EventQueue-0]|frmManagerUpdateMenu - Manager: Teoh Quit Update Menu back to Manager Main Menu
+[INFO ]|2022-08-25|12:08:05.121|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected Update Menu Category
+[INFO ]|2022-08-25|12:08:20.295|[AWT-EventQueue-0]|frmManagerUpdateMenuCategories - Manager: Teoh Quit Update Menu Category back to Manager Main Menu
+[INFO ]|2022-08-25|12:08:21.969|[AWT-EventQueue-0]|frmManagerSalesReport - Manager: Teoh Count sales of selected Category
+[INFO ]|2022-08-25|12:08:21.970|[AWT-EventQueue-0]|frmManagerSalesReport - Manager: Teoh Count sales of selected Category
+[INFO ]|2022-08-25|12:08:21.981|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View Sales Report
+[INFO ]|2022-08-25|12:09:31.676|[AWT-EventQueue-0]|frmManagerSalesReport - Manager: Teoh Quit Sales Report back to Manager Main Menu
+[INFO ]|2022-08-25|12:09:33.545|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View Feedback
+[INFO ]|2022-08-25|12:09:58.465|[AWT-EventQueue-0]|frmManagerViewFeedback - Manager: Teoh Quit View Feedback back to Manager Main Menu
+[INFO ]|2022-08-25|12:10:04.903|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-25|12:10:13.874|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh Quit View Log Activity back to Manager Main Menu
+[INFO ]|2022-08-25|12:10:26.771|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-25|12:12:31.942|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-25|12:12:33.286|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-25|12:13:15.016|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh Quit View Log Activity back to Manager Main Menu
+[INFO ]|2022-08-25|12:13:16.014|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-27|23:13:59.212|[AWT-EventQueue-0]|frmLogin - Customer: Ali has logged in
+[INFO ]|2022-08-27|23:13:59.957|[AWT-EventQueue-0]|frmCustMainMenu - Customer: Ali selected Transaction History
+[INFO ]|2022-08-28|00:21:42.856|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-28|00:21:45.013|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-28|00:21:48.182|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh Quit View Log Activity back to Manager Main Menu
+[INFO ]|2022-08-28|00:21:49.100|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View Log Activity
+[INFO ]|2022-08-28|00:21:50.039|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh Quit View Log Activity back to Manager Main Menu
+[INFO ]|2022-08-28|00:21:51.131|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-28|00:23:01.564|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-28|00:23:02.928|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View User
+[INFO ]|2022-08-28|00:23:09.167|[AWT-EventQueue-0]|frmManagerViewUser - Manager: Teoh Quit View User back to Manager Main Menu
+[INFO ]|2022-08-28|00:23:10.173|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
+[INFO ]|2022-08-28|00:26:55.550|[AWT-EventQueue-0]|frmLogin - Manager: Teoh has logged in
+[INFO ]|2022-08-28|00:26:56.343|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh selected View Log Activity
+[INFO ]|2022-08-28|00:27:14.991|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-28|00:27:19.263|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-28|00:27:19.263|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Customer Only
+[INFO ]|2022-08-28|00:27:20.629|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh View Manager Only
+[INFO ]|2022-08-28|00:27:26.074|[AWT-EventQueue-0]|frmManagerViewLogActivity - Manager: Teoh Quit View Log Activity back to Manager Main Menu
+[INFO ]|2022-08-28|00:27:26.912|[AWT-EventQueue-0]|frmManagerMainMenu - Manager: Teoh has logged out
